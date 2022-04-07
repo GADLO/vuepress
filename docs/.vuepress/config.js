@@ -12,7 +12,7 @@ module.exports = {
         // NavbarItem
         {
           text: 'JavaScript',
-          children: ['/js/深浅拷贝.md', '/group/bar.md'],
+          children: ['/js/深浅拷贝.md', '/js/执行上下文.md'],
         },
         // NavbarGroup
         {
