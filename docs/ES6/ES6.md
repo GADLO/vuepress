@@ -1,3 +1,4 @@
+
 **ES5之后的JS语法统称ES6**
 
 `ECMAscript 2015`是在`2015年6月`发布ES6的第一个版本。
@@ -57,12 +58,6 @@ ES6更新的内容主要分为以下几点:
 - 规则：数据结构具有`Iterator接口`可采用数组形式的解构赋值
 - 形式：`const [x, y] = [1, 2]`
 - 默认：`const [x, y = 2] = [1]`
----
-layout: post
-title:  "Welcome to Jekyll!"
----
-
-
 
 
 **函数参数解构**
